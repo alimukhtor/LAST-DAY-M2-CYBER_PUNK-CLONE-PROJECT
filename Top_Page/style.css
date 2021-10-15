@@ -1,0 +1,73 @@
+body {
+  background-color: black;
+  height: 1000px;
+}
+.first-navbar {
+  background-color: #2C2C2C;
+}
+.navbar-nav{
+  font-size: 20px;
+  text-align: center;
+}
+#navbarSupportedContent{
+  margin-left: 180px;
+}
+.left-navbar-icons{
+  font-size: 20px;
+  margin-right: 250px;
+}
+.first-header{
+  color:#D8D8D8;
+  margin-left: 190px;
+  font-size: 20px;
+}
+.second-container{
+  background-color: #D8D8D8;
+}
+.header>.bi-pencil-fill{
+  margin-left: 190px;
+}
+.header>.first-header{
+  margin-left: 8px;
+}
+.third-container{
+  background-color: #D8D8D8;
+
+}
+/* .btn .btn-success{
+  position
+} */
+.card-body p:last-of-type{
+  position: absolute;
+  left: 300px;
+  bottom: 0;
+}
+.fourth-container{
+  background-color: #D8D8D8;
+
+}
+.fourth-container>p span:first-of-type{
+  color: #8A2BE2;
+}
+.fourth-container>p span:nth-of-type(2){
+  color: #8A2BE2;
+}
+.fourth-container>p span:nth-of-type(3){
+  color: #8A2BE2;
+}
+.fourth-container>p span:last-of-type{
+  color: #8A2BE2;
+}
+.fourth-container>p{
+  text-align: center;
+}
+.fifth-container{
+  background-color: #D8D8D8;
+
+}
+.fifth-container-icon .first-par{
+  margin-left: 8px;
+}
+.fifth-container-icon .bi-star-fill{
+  margin-left: 375px;
+}
