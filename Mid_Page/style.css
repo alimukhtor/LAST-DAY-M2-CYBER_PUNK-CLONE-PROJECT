@@ -4,3 +4,20 @@ body{
 .first-section{
     background-color: #D8D8D8;
 }
+.fifth-container{
+  background-color: #D8D8D8;
+
+}
+.card-body>p:last-of-type{
+  position: absolute;
+  left: 325px;
+}
+.carousel-control-next-icon{
+  margin-left: 178px;
+}
+.carousel-control-prev-icon{
+  margin-right: 250px;
+}
+.navbar-nav .nav-item>a:first-of-type{
+  color:#8B008B;
+}
